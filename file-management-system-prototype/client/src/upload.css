@@ -1,0 +1,29 @@
+#form-main{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+#file-name{
+    height: 30px;
+    width: 50%;
+    font-size: medium;
+    font-weight: 500;
+}
+
+#submit{
+    color: white;
+    background: #4b95f0;
+    border-radius: 2px;
+    width: 15%;
+    height: 30px;
+    border: 1px solid;
+    margin-top: 10px;
+    border-color: #a88734 #9c7e31 #846a29;
+}
+
+img{
+    height: 30%;
+    width: 30%;
+}
